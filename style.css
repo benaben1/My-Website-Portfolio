@@ -66,25 +66,24 @@ footer a {
     width: 70px;
     height: 70px;
     border-radius: 50%;
-    background-color:rgb(252, 249, 249);
-    
+    background-color:rgb(252, 249, 249); 
     
 }
 footer{
-    padding-bottom: 70px;
-    margin-top: 133px;
+    margin-top: 140px;
+    padding-left: 500px;
     background-color:rgb(252, 249, 249);
 }
 footer p{
     color: black;
     align-items: baseline;
-    margin-top: 80px;
-    text-align: center;
+    margin-top: 10px;
+    padding-left: 26px;
     background-color:rgb(252, 249, 249);
 
 }
 footer img{
-    margin-top: 15px;
+    margin-top: 20px;
 }
 *{
     background-color: brown;
